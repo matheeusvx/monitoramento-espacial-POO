@@ -18,11 +18,11 @@ A plataforma foi construída para simular o funcionamento de uma estação ou na
 
 | Integrante | Responsabilidade |
 |---|---|
-| Matheus, RM: 562765 | Desenvolvimento dos sensores e do sistema de propulsão |
-| Lucas, RM: 561607 | Desenvolvimento da classe de dados da missão |
-| Henrique, RM: 564699 | Ajustes e integração do sistema principal |
+| Matheus | Desenvolvimento dos sensores e do sistema de propulsão |
+| Lucas | Desenvolvimento da classe de dados da missão |
+| Henrique | Ajustes e integração do sistema principal |
 
-*As responsabilidades de cada integrante foram desenvolvidas individualmente, conforme a divisão definida no projeto. Após a conclusão das partes, os códigos foram revisados e unificados em um único commit para manter a organização do repositório, facilitar a integração dos arquivos e evitar conflitos desnecessários no histórico do projeto.*
+As responsabilidades de cada integrante foram desenvolvidas individualmente, conforme a divisão definida no projeto. Após a conclusão das partes, os códigos foram revisados e unificados em um único commit para manter a organização do repositório, facilitar a integração dos arquivos e evitar conflitos desnecessários no histórico do projeto.
 
 ---
 
@@ -218,6 +218,13 @@ projeto-espacial/
 │   ├── SensorTemperatura.java
 │   ├── SistemaMonitoramento.java
 │   └── SistemaPropulsao.java
+├── docs/
+│   └── prints/
+│       ├── 01-verificacao-sensores.png
+│       ├── 02-controle-propulsao.png
+│       ├── 03-dados-missao.png
+│       ├── 04-simulacao-alertas.png
+│       └── 05-status-completo.png
 ├── README.md
 └── .gitignore
 ```
@@ -249,6 +256,40 @@ javac -d out src/*.java
 ```bash
 java -cp out SistemaMonitoramento
 ```
+
+---
+
+## Evidências de Execução
+
+### Verificação dos sensores
+
+<p align="center">
+  <img src="docs/prints/01-verificacao-sensores.png" alt="Tela de verificação dos sensores" width="520">
+</p>
+
+### Controle de propulsão
+
+<p align="center">
+  <img src="docs/prints/02-controle-propulsao.png" alt="Tela de controle de propulsão" width="520">
+</p>
+
+### Gerenciamento dos dados da missão
+
+<p align="center">
+  <img src="docs/prints/03-dados-missao.png" alt="Tela de gerenciamento de dados da missão" width="520">
+</p>
+
+### Simulação de alertas
+
+<p align="center">
+  <img src="docs/prints/04-simulacao-alertas.png" alt="Tela de simulação de alertas" width="520">
+</p>
+
+### Status completo da plataforma
+
+<p align="center">
+  <img src="docs/prints/05-status-completo.png" alt="Tela de status completo da plataforma" width="540">
+</p>
 
 ---
 
