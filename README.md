@@ -264,31 +264,31 @@ java -cp out SistemaMonitoramento
 ### Verificação dos sensores
 
 <p align="center">
-  <img src="docs/prints/01-verificacao-sensores.png" alt="Tela de verificação dos sensores" width="520">
+  <img src="docs/prints/01-verificacao-sensores.jpeg" alt="Tela de verificação dos sensores" width="520">
 </p>
 
 ### Controle de propulsão
 
 <p align="center">
-  <img src="docs/prints/02-controle-propulsao.png" alt="Tela de controle de propulsão" width="520">
+  <img src="docs/prints/02-controle-propulsao.jpeg" alt="Tela de controle de propulsão" width="520">
 </p>
 
 ### Gerenciamento dos dados da missão
 
 <p align="center">
-  <img src="docs/prints/03-dados-missao.png" alt="Tela de gerenciamento de dados da missão" width="520">
+  <img src="docs/prints/03-dados-missao.jpeg" alt="Tela de gerenciamento de dados da missão" width="520">
 </p>
 
 ### Simulação de alertas
 
 <p align="center">
-  <img src="docs/prints/04-simulacao-alertas.png" alt="Tela de simulação de alertas" width="520">
+  <img src="docs/prints/04-simulacao-alertas.jpeg" alt="Tela de simulação de alertas" width="520">
 </p>
 
 ### Status completo da plataforma
 
 <p align="center">
-  <img src="docs/prints/05-status-completo.png" alt="Tela de status completo da plataforma" width="540">
+  <img src="docs/prints/05-status-completo.jpeg" alt="Tela de status completo da plataforma" width="540">
 </p>
 
 ---
